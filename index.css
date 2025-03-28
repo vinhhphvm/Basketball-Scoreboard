@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container{
+    display: flex;
+    font-family: 'Orbitron', sans-serif;
+    justify-content: space-evenly;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+.score{
+    background: border-box black;
+    border-radius: 5px 5px;
+    color: red;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 5px;
+}
+
+.button-style{
+    border: 2px solid #9AABD8;
+    font-family: 'Orbitron', sans-serif;
+    border-radius: 5px 5px;
+    color: #9AABD8;
+    background-color:#1B244A;
+    padding: 8px;
+}
